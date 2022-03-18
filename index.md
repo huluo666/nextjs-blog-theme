@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<p class="title top-space" style="font-size: 50; text-align: center;">OTA下载测试</p> 
+	<p class="download_content top-space" style="text-align: center;">  
+		<a class="download_btn" style="font-size: 45; text-align: center;" href="itms-services://?action=download-manifest&url=https://gitee.com/1019459067/testApp/raw/master/manifest.plist">点击下载</a>
+</p> 
